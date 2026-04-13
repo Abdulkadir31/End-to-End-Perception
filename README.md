@@ -1,0 +1,1 @@
+A ened to end perception model for object detection and tracking. The model is tested on Nuscenes Dataset with an mAP of 0.22 after 8 epochs. The model is based on the existing work of MapTr, BEVFusion and VAD.
